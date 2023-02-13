@@ -11,7 +11,7 @@ This is a simple website built using HTML and SCSS. The website is designed to s
 - HTML
 - SCSS
 
-# Getting Started
+## Getting Started
 To view the website, simply clone this repository and open the index.html file in your web browser.
 
 ## Contributing
